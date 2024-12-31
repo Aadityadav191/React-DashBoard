@@ -29,6 +29,7 @@
 }
 @media screen and (max-width: 480px) {
   .Cards-Containers {
+      gap:1rem;
       padding: 5px; /* Minimal padding for mobile devices */
       flex-direction: row; /* Stack cards vertically on very small screens */
       gap: 10px; /* Add spacing between stacked cards */
